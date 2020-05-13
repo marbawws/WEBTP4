@@ -1,8 +1,9 @@
 <?php $titre = 'Le Blogue de Marwane Rezgui version 1.0.0.1'; ?>
 
 <ul>
+<h2><a href="https://github.com/marbawws/WEBTP4.git">LIEN VERS LE DEPOT GIT</a></h2>
     <li>Marwane Rezgui</li>
-
+	<li>inspirée très fortement sur le blogue du prof</li>
     <li>420-4A4 MO Web et Bases de données</li>
     <li>Hiver 2020, Collège Montmorency</li>
 </ul>
